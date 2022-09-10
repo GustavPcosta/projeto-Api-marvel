@@ -1,0 +1,11 @@
+.hearderTwo{
+height: 90px;
+width: 1440px;
+background-color: rgba(10, 15, 13, 1);
+color: white;
+}
+.container-header{
+display: flex;
+justify-content: space-between;
+padding: 0 121px;
+}

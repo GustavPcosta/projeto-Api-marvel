@@ -1,0 +1,16 @@
+.container-detail strong{
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+}
+
+.small{
+position: relative;
+top: 30px;
+left: -25px;
+}
